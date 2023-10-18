@@ -1,0 +1,284 @@
+    1  pwd 
+    2  pwd github repo
+    3  sudo apt remove ngnix
+    4  touch my_text_file.txt
+    5  ls-lta
+    6  git clone ~https://github.com/shahidsalim07/RTR105~
+    7  git clone https://github.com/shahidsalim07/RTR105
+    8  sudo apt install git
+    9  [200~git clone https://github.com/shahidsalim07/RTR105~
+   10  git clone https://github.com/shahidsalim07/RTR105
+   11  cd RTR105
+   12  men ls
+   13  sudo apt install man
+   14  history
+   15  history>my_commands.txt
+   16  git clone  https://github.com/shahidsalim07/RTR105
+   17  cd RTR105
+   18  touch commands.txt
+   19  nano commands.txt
+   20  ls-lt
+   21  pwd
+   22  ls-lt
+   23  ls -lt
+   24  git clone https://github.com/shahidsalim07/RTR105_2023-FOREIGN
+   25  ls -lt
+   26  ~/https://github.com/shahidsalim07/RTR105_2023-FOREIGN LS -LT
+   27  https://github.com/shahidsalim07/RTR105 ls -lt
+   28  mkdir my_directory
+   29  fwlnujrguygr
+   30  jebfb
+   31  mkdir my_directory https://github.com/shahidsalim07/RTR105
+   32  git clone https://github.com/shahidsalim07/RTR105
+   33  https://github.com/shahidsalim07/RTR105 nanofirst.c
+   34  nanofirst.c
+   35  sudo instal nanofirst.c
+   36  #include <stdio.h>
+   37  int main() {
+   38  gcc first.c
+   39  sudo apt install gcc
+   40  gcc first.c
+   41  cd /path/to/directory/containing/first.c
+   42  gcc /path/to/first.c
+   43  ls -lt
+   44  git clone https://github.com/shahidsalim07/RTR105.git
+   45  cd RTR105
+   46  git add .
+   47  git commit -m "Add class 05 code"
+   48  cmatrix
+   49  ls
+   50  ls -l
+   51  cd /path/to/directory
+   52  pwd
+   53  mkdir directory_name
+   54  someelse name is 
+   55  cmatrix
+   56  pwd
+   57  touch filename cats
+   58  nano cat
+   59  vim cat
+   60  quartus
+   61  whoami
+   62  who
+   63  pwd
+   64  ls
+   65  man ls
+   66  ls -lt
+   67  ls -l -t
+   68  ls -tl
+   69  history
+   70  man ls
+   71  ls
+   72  ls -a
+   73  ls
+   74  man ls
+   75  ls -a
+   76  ls
+   77  ls -1
+   78  ls-a
+   79  ls -a
+   80  pwd
+   81  ls
+   82  ls desktop/
+   83  ls Desktop/
+   84  ls -la Documents/
+   85  pwd
+   86  ls
+   87  ls /home
+   88  pwd
+   89  ls
+   90  tree
+   91  sudo apt install tree
+   92  tree
+   93  pwd
+   94  cd Music/
+   95  ls
+   96  ls -la
+   97  user@epk428-0:~$ cd Music/
+   98  whoami
+   99  cd root/
+  100  touch root/
+  101  mkdir ABC
+  102  ls -lt
+  103  ls -lt ABC
+  104  ls -lt ABC/
+  105  cd ABC/
+  106  pwd
+  107  ls- lt
+  108  ls -lt
+  109  ls -lta
+  110  cd .
+  111  rmdir ABC
+  112  rmdir ABC/
+  113  touch abc.text
+  114  ls -lt
+  115  echo la-la-la-lala
+  116  echo 1234
+  117  echo 1234> text_1.txt
+  118  ls -lt
+  119  hexdump -c text_1.txt
+  120  ls -lt
+  121  cat
+  122  cat text_1.txt
+  123  hexdump -c text_1.txt
+  124  history
+  125  history>history_20230912_class_02.txt
+  126  git add .
+  127  git config --global user.name shahidsalim07
+  128  git config --global user.email shahidsalim910@gmail.com
+  129  git commit -m"class_01"
+  130  git push origin main
+  131  git clone RTR105
+  132  rtr009
+  133  git clone rtr009
+  134  git config --global user.email shahid.salim@rtu.lv
+  135  git commit -m"class_07"
+  136  git add .
+  137  git commit -m "class_02"
+  138  git commit -a
+  139  git commit -m"class_07"
+  140  mkdir RTR105
+  141  cd RTR105
+  142  git init
+  143  git add .
+  144  ls -lt
+  145  git commit -m
+  146  git commit -m "class_02"
+  147  git remote add origin https://github.com/shahidsalim07/RTR105
+  148  git push -u origin master
+  149  git clone RTR105
+  150  git remote add origin https://github.com/shahidsalim07/RTR105
+  151  git push origin main
+  152  git branch
+  153  git checkout -b branch_name
+  154  git checkout -b main
+  155  git push -u origin main
+  156  git branch
+  157  git remote add origin https://github.com/shahidsalim07/RTR105
+  158  git push -u origin main
+  159  git clone RTR105
+  160  git remote add origin https://github.com/shahidsalim07/RTR105
+  161  git clone RTR105
+  162  mkdir RTR105
+  163  git clone RTR105
+  164  mkdir RTR105
+  165  cd RTR105
+  166  git init
+  167  git add .
+  168  git clone RTR105
+  169  nano git-upload
+  170  nano
+  171  cat git-upload
+  172  git-upload
+  173  pwd
+  174  ls -lt /bin/pwd
+  175  cd RTR105/
+  176  bash
+  177  git clone https://github.com/shahidsalim07/RTR105
+  178  rmdir RTR105
+  179  cd RTR105/
+  180  /home/shahidsalim07/RTR105/git-upload
+  181  echo $path
+  182  /home/shahidsalim07/RTR105/git-upload
+  183  nano git-upload
+  184  pwd 
+  185  git-upload
+  186  history
+  187  history>pleasesaveit.txt
+  188  echo history>pleasesaveit.txt
+  189  echo history >> code.txt
+  190  nano code.txt
+  191  history
+  192  git clone https://github.com/shahidsalim07/RTR105
+  193  cd RTR105
+  194  mkdir class_09/
+  195  ls -lt
+  196  mkdir class_09
+  197  cd class_09
+  198  operations.c
+  199  nano operations.c
+  200  gcc operations.c
+  201  cat test.c
+  202  cat operations.c
+  203  gcc test.c -o test.out
+  204  cat test.c
+  205  nano operations.c
+  206  ls -lt
+  207  cat operations.c
+  208  gcc operations.c -o operations.out
+  209  ls -lt 
+  210  ./operations.out
+  211  git add my_commands.txt
+  212  git remote add origin https://github.com/shahidsalim07/RTR105_2023-FOREIGN
+  213  history
+  214  history>history20231010
+  215  echo "# practice" >> README.md
+  216  git init
+  217  git add README.md
+  218  git commit -m "first commit"
+  219  git branch -M main
+  220  git remote add origin https://github.com/shahidsalim07/practice.git
+  221  git push -u origin main
+  222  shahid@shahid-VirtualBox:~/RTR105/class_09$ echo "# practice" >> README.md
+  223  git init
+  224  git add README.md
+  225  git commit -m "first commit"
+  226  git branch -M main
+  227  git remote add origin https://github.com/shahidsalim07/practice.git
+  228  git push -u origin main
+  229  nano ccode for addition
+  230  nano ccode for addition.c
+  231  cat addition.c
+  232  gcc addition.c -o addition.out
+  233  ls -lt test.out
+  234  ./addition.out
+  235  history
+  236  history>history1010
+  237  pwd
+  238  history
+  239  pwd
+  240  nano test.c
+  241  cat test.c
+  242  gcc test.c-o test.out
+  243  gcc test.c -o test.out
+  244  ls -l test.out
+  245  .\test.out
+  246  ./test.out
+  247  ls -l test.out
+  248  ./test.out
+  249  cat test.c
+  250  nano test.c
+  251  cat test.c
+  252  nano test.c
+  253  gcc test.c-o test.out
+  254  ls -l test.out
+  255  ./test.out
+  256  history
+  257  history>practice
+  258  gcc addition substraction multiplication divison.c
+  259  nano addition substraction multiplication divison.c
+  260  cat addition.c
+  261  history
+  262  nano addition substraction multiplication divison.c
+  263  cat addition.c
+  264  gcc addition.c-o addition.out
+  265  nano addition substraction multiplication divison.c'/home/shahid/addition' 
+  266  cd RTR105
+  267  cd class_11
+  268  nano function_V1.c
+  269  gcc function_V1.c
+  270  /a.out
+  271  / a.out
+  272  gcc test.c -o test.out
+  273  gcc function.c -o function_V1.c.out
+  274  gcc function_V1.c
+  275  ./test.out
+  276  ./function_V1.out
+  277  ./a.out
+  278  nano while_char.c
+  279  gcc while_char.c
+  280  ./a.out
+  281  gcc while_rand.c
+  282  ./a.out
+  283  history
+  284  history>history18102023

@@ -1,0 +1,15 @@
+    1  pwd 
+    2  pwd github repo
+    3  sudo apt remove ngnix
+    4  touch my_text_file.txt
+    5  ls-lta
+    6  git clone ~https://github.com/shahidsalim07/RTR105~
+    7  git clone https://github.com/shahidsalim07/RTR105
+    8  sudo apt install git
+    9  [200~git clone https://github.com/shahidsalim07/RTR105~
+   10  git clone https://github.com/shahidsalim07/RTR105
+   11  cd RTR105
+   12  men ls
+   13  sudo apt install man
+   14  history
+   15  history>my_commands.txt
